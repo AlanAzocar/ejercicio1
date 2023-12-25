@@ -1,0 +1,9 @@
+Git init: iniciamos GIT en la carpeta donde esta el proyecto.
+git add: añadimos todos los archivos para el commit.
+git commit -m "nombre del archivo": hacemos un commit
+git push: subimos al repositorio.
+git clone: clonamos el repositorio de github.
+git pull: descarga contenido desde un repositorio remoto y actualiza el repositorio local.
+git branch: crea una branch o rama 
+git switch -c nombre del archivo: crea la rama y me situa en ella. 
+git marge: permite tomar las lineas indepetndientes de desarrollo creadas por git branch e integrarlas en una sola rama.
